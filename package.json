@@ -1,0 +1,19 @@
+{
+  "name": "vue-select-js",
+  "version": "0.1.0",
+  "author": "Daniel Gerber <daniel.g.gerber@gmail.com>",
+  "license": "MIT",
+  "description": "Vue component to select typed JS objects",
+  "keywords": [
+    "vue.js"
+  ],
+  "main": "select.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgerber/vue-select-js.git"
+  },
+  "bugs": "https://github.com/dgerber/vue-select-js/issues",
+  "dependencies": {
+    "vue": "^0.12"
+  }
+}
